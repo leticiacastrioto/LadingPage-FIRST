@@ -3,7 +3,7 @@
 `
   Projeto inicial, com intuitos de aprendizado para iniciantes na area, juntamente com 4 Dev's iniciantes na área com um grante potencial e determinação, 
   este projeto se consiste em desenvolver uma ladingpage simples, utilizando metodologia SCRUM e versionamente de codigo, eu Luis Fernando, terei a função de 
-  Teach leader.
+  Teach leader, irei auxiliar os dev's no desenvolvimento do projeto, de inicio ao fim.
 `
 
 ### ANDAMENTO DE PROJETO:
