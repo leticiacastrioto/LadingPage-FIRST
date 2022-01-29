@@ -1,10 +1,12 @@
 # <h1>LadingPage-FIRST</h1>
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+`
+  Projeto inicial, com intuitos de aprendizado para iniciantes na area, juntamente com 4 Dev's iniciantes na área com um grante potencial e determinação, 
+  este projeto se consiste em desenvolver uma ladingpage simples, utilizando metodologia SCRUM e versionamente de codigo, eu Luis Fernando, terei a função de 
+  Teach leader.
+`
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
-### Ajustes e melhorias
+### ANDAMENTO DE PROJETO:
 
 O projeto ainda está em desenvolvimento, fase inicial, seguindo as respectivas atividades e seus integrantes:
 
@@ -17,10 +19,7 @@ O projeto ainda está em desenvolvimento, fase inicial, seguindo as respectivas 
 - [ ] 7 - Footer - Luis Fernando
 
 
-## 🚀 Instalando <LadingPageFIRST>
-
-## 📫 Contribuindo para <nome_do_projeto>
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+## 🚀 Instalando <LadingPageFIRST>  
 Para realizar o clone <deste_projeto>, siga estas etapas:
 
 1. Clone este projeto `git clone https://github.com/Manrriquez/LadingPage-FIRST.git`
@@ -64,9 +63,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
-
-<img src="../LadingPage-FIRST/assets/design/LadingPage FIRST.png" style="width: 30%;" alt="exemplo imagem">
 
 
 ## 📝 Licença
