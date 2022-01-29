@@ -10,13 +10,14 @@
 
 O projeto ainda está em desenvolvimento, fase inicial, seguindo as respectivas atividades e seus integrantes:
 
-- [ ] 1 - Header - Luis Fernando
-- [ ] 2 - Home - Luis Fernando
-- [ ] 3 - Feed
-- [ ] 4 - Habilidades
-- [ ] 5 - Produtos
-- [ ] 6 - Sobre Nós
-- [ ] 7 - Footer - Luis Fernando
+- [ ]  - seção 0 - Luis Fernando
+- [ ]  - seção 1 - Luis Fernando
+- [ ]  - seção 2 - Ycaro
+- [ ]  - seção 3 - Leticia 
+- [ ]  - seção 4 - Renato
+- [ ]  - seção 5 - Luis, Leticia
+- [ ]  - seção 6 - Renato, Ycaro
+- [ ]  - Footer - Luis Fernando
 
 
 ## 🚀 Instalando <LadingPageFIRST>  
