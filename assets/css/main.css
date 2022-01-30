@@ -1,14 +1,9 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-@font-face {
-  font-family: "Helveticaasd";
-  font-weight: normal;
-  font-style: normal;
-  src: url("../fonts/Helveasdtica.ttf") format("truetype");
-  font-display: swap;
-}
 body {
-  background-color: aliceblue;
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
 }
 
 .no-gutter > [class*="col-"] {
@@ -22,7 +17,6 @@ body {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
   transition: all 0.35s;
-  font-family: "Catamaran", "Helvetica", "Arial", "sans-serif";
   font-weight: 200;
   letter-spacing: 1px;
   position: fixed;
@@ -30,9 +24,8 @@ body {
 }
 
 #mainNav .navbar-brand {
-  color: #fdcc52;
-  font-family: "Catamaran", "Helvetica", "Arial", "sans-serif";
-  font-weight: 200;
+  color: #111B47;
+  font-weight: 600;
   letter-spacing: 1px;
 }
 
@@ -48,8 +41,6 @@ body {
 }
 
 #mainNav .navbar-nav > li > a {
-  font-size: 11px;
-  font-family: "Lato", "Helvetica", "Arial", "sans-serif";
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -80,13 +71,16 @@ body {
 .menuFixo {
   position: fixed;
   top: 0px!important;
-  background-color: #132F52!important;
+  background-color: white!important;
   width: 100%;
   z-index: 999999;
-  /* color: black!important; */
   box-shadow: 0 1px 2px rgb(0 0 0 / 5%);
 }
 
+
+ul.navbar-nav.ml-auto {
+  align-items: center;
+}
 @media (min-width: 992px) {
   #mainNav {
     border-color: transparent;
@@ -97,15 +91,17 @@ body {
   }
   #mainNav .navbar-brand:hover,
   #mainNav .navbar-brand:focus {
-    color: white;
+  
   }
   #mainNav .navbar-nav > li > a,
   #mainNav .navbar-nav > li > a:focus {
-    color: rgba(255, 255, 255, 0.7);
+    color: #111B47;
+    font-weight: 500;
+    font-size: 15px;
   }
   #mainNav .navbar-nav > li > a:hover,
   #mainNav .navbar-nav > li > a:focus:hover {
-    color: white;
+    color: #30428c;
   }
   #mainNav.navbar-shrink {
     border-color: rgba(34, 34, 34, 0.1);
@@ -114,21 +110,118 @@ body {
   #mainNav.navbar-shrink .navbar-brand {
     color: #222222;
   }
-  #mainNav.navbar-shrink .navbar-brand:hover,
-  #mainNav.navbar-shrink .navbar-brand:focus {
-    color: #fdcc52;
-  }
-  #mainNav.navbar-shrink .navbar-nav > li > a,
-  #mainNav.navbar-shrink .navbar-nav > li > a:focus {
-    color: #222222;
-  }
-  #mainNav.navbar-shrink .navbar-nav > li > a:hover,
-  #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #fdcc52;
-  }
 }
 
 /* FIM Menu */
 
 
 
+/* ========================== ESTILIZAÇÃO DE LUIS ================================= */
+
+.section-1-luis {
+  background-image: url(../img/image-home.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 66%;
+  height: 915px;
+  background-position-x: right;
+}
+.group-section-1 {
+  position: relative;
+  top: 215px;
+  margin-left: 6%;
+}
+h1.title-section-1 {
+  font-size: clamp(2rem, 3.6rem, 5rem);
+  margin-bottom: 30px;
+}
+p.description-section-1 {
+  font-size: clamp(1rem, 1.1rem, 1.7rem);
+  color: #505F98;
+  margin-bottom: 45px;
+}
+button.button-section-1 {
+  background: #111B47;
+  color: white;
+  width: 15%;
+  height: 46px;
+  border: none;
+}
+button.button-section-1:hover {
+  background: white;
+  color: #111B47;
+  border: #111B47 2px solid;
+  transition: .5s;
+  font-weight: 600;
+}
+button.button2-section-1 {
+  background: white;
+  color: #111B47;
+  width: 15%;
+  height: 46px;
+  border: #111B47 2px solid;
+  font-weight: 600;
+}
+button.button2-section-1:hover {
+  background: #111B47;
+  color: white;
+  border: none;
+  transition: .5s;
+  font-weight: 400;
+}
+/* ========================== ESTILIZAÇÃO DE LUIS ================================= */
+
+
+
+/* ========================== */
+
+
+
+/* ========================== ESTILIZAÇÃO DE YCARO ================================= */
+
+
+/* ========================== ESTILIZAÇÃO DE YCARO ================================= */
+
+
+
+
+/* =========================== */
+
+
+
+
+/* ========================== ESTILIZAÇÃO DE LETICIA ================================= */
+
+
+/* ========================== ESTILIZAÇÃO DE LETICIA ================================= */
+
+
+
+
+/* ========================== */
+
+
+
+/* ============================= ESTILIZAÇÃO DO RENATO ================================== */
+
+/* ============================= ESTILIZAÇÃO DO RENATO ================================== */
+
+
+
+/* ============================= */
+
+
+/* ================================ ESTILIZAÇÃO DE LUIS,LETICIA ============================= */
+
+
+/* ================================ ESTILIZAÇÃO DE LUIS,LETICIA ============================= */
+
+
+
+/* =================================== */
+
+
+/* ================================== ESTILIZAÇÃO DE YCARO,RENATO ============================== */
+
+
+/* ================================== ESTILIZAÇÃO DE YCARO,RENATO ============================== */
