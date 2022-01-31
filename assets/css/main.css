@@ -112,6 +112,8 @@ ul.navbar-nav.ml-auto {
   }
 }
 
+
+
 /* FIM Menu */
 
 
@@ -203,7 +205,12 @@ button.button2-section-1:hover {
 
 
 /* ============================= ESTILIZAÇÃO DO RENATO ================================== */
+.caixa {
 
+  display: flex;
+  
+  
+}
 /* ============================= ESTILIZAÇÃO DO RENATO ================================== */
 
 
