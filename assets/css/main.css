@@ -206,7 +206,7 @@ button.button2-section-1:hover {
 
 /* ============================= ESTILIZAÇÃO DO RENATO ================================== */
 .caixa {
-
+  
   display: flex;
   
   
@@ -229,6 +229,31 @@ button.button2-section-1:hover {
 
 
 /* ================================== ESTILIZAÇÃO DE YCARO,RENATO ============================== */
+
+.sitetop {
+
+  
+    
+     
+    text-align: center;
+     
+        
+}
+
+  #botao{ text-align: center }
+  .botaoEnviar{
+      width: 150px;
+      text-align: center;
+      padding: 4px 4px;
+      border: 1px solid rgb(255, 255, 255);
+      border-radius: 7px;
+      background-color: #6b64ca;
+      font-size: 16px;
+      color: rgb(235, 229, 229);
+      cursor: pointer;
+      
+}
+
 
 
 /* ================================== ESTILIZAÇÃO DE YCARO,RENATO ============================== */
